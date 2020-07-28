@@ -6,7 +6,7 @@
 	<a href="https://www.linkedin.com/in/jacobeturpin"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-I'm Jacob, and I like to work with data. I build various projects in the data science space, from deep learning models to 
+I'm Jacob, and I like to work with data. I build various projects in the data science space both professionals and in my spare time. 
 
 # My Day Job
 
