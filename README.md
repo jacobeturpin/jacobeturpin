@@ -14,7 +14,7 @@ I currently work at [ConnectWise](https://www.connectwise.com/) as the manager o
 
 # What I'm Learning
 
-In the evenings, I'm a student at Northwestern University [Master's in Data Science](https://sps.northwestern.edu/masters/data-science/index.php). This quarter, I'm currently working on generalized linear models.
+In the evenings, I'm a student at Northwestern University studying under the [Master's in Data Science](https://sps.northwestern.edu/masters/data-science/index.php) program. This quarter, I'm currently working on generalized linear models.
 
 # What I'm Working On
 
