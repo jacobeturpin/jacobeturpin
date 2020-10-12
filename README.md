@@ -10,11 +10,11 @@ I'm Jacob, and I like to work with data. I build various projects in the data sc
 
 # My Day Job
 
-I currently work at [ConnectWise](https://www.connectwise.com/) as the manager of product data science where I lead a team data science professionals in helping solve problems faced by IT professionals and Technology As-a-Service businesses.
+I currently work at [ConnectWise](https://www.connectwise.com/) as the manager of data science where I lead an internationally distributed team of data scientists, engineers and analysts in helping solve problems faced by IT professionals and Technology As-a-Service businesses.
 
 # What I'm Learning
 
-In the evenings, I'm a student at Northwestern University studying under the [Master's in Data Science](https://sps.northwestern.edu/masters/data-science/index.php) program. This quarter, I'm currently working on generalized linear models.
+In the evenings, I'm a student at Northwestern University studying under the [Master's in Data Science](https://sps.northwestern.edu/masters/data-science/index.php) program. This quarter, I'm currently working on decision analytics (optimization and simulation techniques) as well as my program capstone project.
 
 # What I'm Working On
 
