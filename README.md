@@ -10,7 +10,7 @@ I'm Jacob, and I like to work with data. I build various projects in the AI prod
 
 # My Day Job
 
-I currently work at [Avodah]([https://www.connectwise.com/](https://www.avodah.com/)) as the head of engineering for the AvodahConnect business unit. I have the pleasure of leading a global engineering team build AI products that provides solutions for real-time translation, transcription, language preservation, and language education.
+I currently work at [Avodah](https://www.avodah.com/) as the head of engineering for the AvodahConnect business unit. I have the pleasure of leading a global engineering team in building AI products that provides solutions for real-time translation, transcription, language preservation, and language education.
 
 # What I'm Learning
 
