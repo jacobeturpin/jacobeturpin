@@ -14,7 +14,7 @@ I currently work at [Avodah](https://www.avodah.com/) as the head of engineering
 
 # What I'm Learning
 
-In the evenings, I'm trying to continuously improve my full-stack engineering skillset to better assist the full-stack teams teams I lead. (Academically and professionally I've spent more time in machine learning than application development.) I'm currently tinkering with small scale applications on [Next.js](https://nextjs.org/).
+In the evenings, I'm trying to continuously improve my full-stack AI engineering skillset to better assist the teams I lead. I'm currently working on a proof-of-concept for integrating agentic AI into voice applications.
 
 # What I'm Working On
 
